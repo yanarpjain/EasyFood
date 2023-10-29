@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyFood</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favourite_fragment">Favourite fragment</string>
+    <string name="Home_fragment">Home Fragment</string>
+    <string name="Category_fragment">Category Fragment</string>
+    <string name="home">Home</string>
+    <string name="favorite_fragment">Favourite</string>
+    <string name="category_fragment">Category\n</string>
+</resources>
